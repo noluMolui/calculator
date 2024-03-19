@@ -1,0 +1,14 @@
+
+
+ .calculator form input{
+  border: 0px;
+  outline: 0px;
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+  box-shadow:5px 10px 10px #888888;
+}
+
+form input.equal{
+  width: 125px;
+}
